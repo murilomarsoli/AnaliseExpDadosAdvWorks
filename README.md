@@ -6,4 +6,4 @@ Minha primeira análise exploratória de dados, realizada no Google Colab e anal
 ## Dataset Report in Power BI
 Access the Dataset report in Power BI: https://app.powerbi.com/reportEmbed?reportId=5bfc99b0-9252-4c10-abc5-1464d7422830&autoAuth=true&ctid=f310b526-e195-4805-a55e-67e28f2fefdb <br/>
 
-![Adventure Works Dataset Report in Power BI]()
+![Adventure Works Dataset Report in Power BI](https://github.com/murilomarsoli/analise-exploratoria-dados-AdventureWorks/blob/main/advWorks_PowerBI.png)
